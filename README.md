@@ -7,6 +7,8 @@ Il est maintenu par une communauté d'étudiants ou d'anciens étudiants en MP2I
 
 Vous pouvez cloner ou fork le projet pour y contribuer.
 
+Le dépôt original est disponible à [cette URL](https://github.com/prepas-mp2i/prepas-mp2i.fr).
+
 ## Setup
 
 Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis configurez le repo:
@@ -25,8 +27,8 @@ hugo serve -e production
 
 ## Contact
 
-N'hésitez pas à contacter [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr) pour tout renseignement.
+N'hésitez pas à contacter [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com) pour tout renseignement.
 
 ## Licence
 
-Ce projet est distribué sous la licence Mozilla Public License 2.0. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/prepas-mp2i/prepas-mp2i.fr/blob/master/LICENSE).
+Ce projet est distribué sous la licence Mozilla Public License 2.0. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/prepas-mpi/prepas-mp2i.fr/blob/master/LICENSE).
