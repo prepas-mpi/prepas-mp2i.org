@@ -1,6 +1,6 @@
 # Mentions légales
 
-En vigueur au *17/03/2025*
+En vigueur au *26/03/2025*
 
 Conformément aux dispositions des Articles 6-III et 19 de la Loi n°2004-575 du 21 juin 2004 pour la Confiance dans l’économie numérique, dite L.C.E.N., il est porté à la connaissance des utilisateurs et visiteurs du site [prepas-mp2i.org](https://prepas-mp2i.org), les présentes mentions légales.
 
