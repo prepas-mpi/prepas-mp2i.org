@@ -24,7 +24,7 @@ Le site est hébergé chez [PulseHeberg](https://pulseheberg.com/), société fr
 
 L'accès au site est gratuit et sans condition de durée via le protocole HTTP, à l'URL [https://prepas-mp2i.org](https://prepas-mp2i.org).
 
-Le nom de domaine prepas-mpi.fr a été acquis le 26 mars 2025 chez la société [OVH SAS](https://ovh.com/), qui se réserve le droit de suspendre l'accès au nom de domaine prepas-mpi.fr.
+Le nom de domaine prepas-mp2i.org a été acquis le 26 mars 2025 chez la société [OVH SAS](https://ovh.com/), qui se réserve le droit de suspendre l'accès au nom de domaine prepas-mp2i.org.
 La gestion de la zone DNS, qui comprend les sous domaines du site et ses redirections, est également gérée par OVH.
 
 En cas de panne ou de défaillance, le service [Cloudflare](https://www.cloudflare.com/) peut-être utilisé pour la zone DNS et l'hébergement du site.
