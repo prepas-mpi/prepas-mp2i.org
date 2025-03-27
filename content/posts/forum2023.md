@@ -79,7 +79,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 Le stands 1 et 2 seront fermés après 17h, les intervenants des établissements concernés se déplaceront dans les stands 3 à 6.
 {{< /admonition >}}
 
-À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
+À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.org/contact/) par Discord ou par mail.
 
 ## Intervenants
 

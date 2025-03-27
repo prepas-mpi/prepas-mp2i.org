@@ -31,4 +31,4 @@ N'hésitez pas à contacter [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail
 
 ## Licence
 
-Ce projet est distribué sous la licence Mozilla Public License 2.0. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/prepas-mpi/prepas-mp2i.fr/blob/master/LICENSE).
+Ce projet est distribué sous la licence Mozilla Public License 2.0. Vous pouvez consulter les détails de cette licence dans le fichier [LICENSE](https://github.com/prepas-mpi/prepas-mp2i.org/blob/master/LICENSE).

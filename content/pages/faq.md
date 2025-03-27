@@ -12,7 +12,7 @@ categories :
     - Orientation
 ---
 
-Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée, vous pouvez nous contacter via [la page de contact](https://prepas-mp2i.fr/contact/).
+Vous avez une question à poser ? Si jamais elle n'est pas déjà référencée, vous pouvez nous contacter via [la page de contact](https://prepas-mp2i.org/contact/).
 
 ## Les cours
 
@@ -66,7 +66,7 @@ Comme un grand oral mais niveau prépa en y mettant beaucoup plus de temps de cu
 
 {{< right >}} *Jules, MPI lycée Champollion, Grenoble (2023)* {{< /right >}}
 
-:(fas fa-solid fa-lightbulb fa-fw): **Pour plus d'information sur les TIPE, c'est par [ici](https://prepas-mp2i.fr/posts/tipe/).**
+:(fas fa-solid fa-lightbulb fa-fw): **Pour plus d'information sur les TIPE, c'est par [ici](https://prepas-mp2i.org/posts/tipe/).**
 {{< /admonition >}}
 
 {{< admonition quote "As-tu continué une LVB en prépa ?" false >}}
@@ -197,13 +197,13 @@ Je préciserais que les vacances avant l'entrée en première année sont aussi 
 ## L'admission
 
 {{< admonition quote "MP2I ou MPSI : que choisir ?" false >}}
-On vous apporte une réponse détaillée sur les différences entre ces deux filières dans [ce post](https://prepas-mp2i.fr/posts/mp2i-ou-mpsi/).
+On vous apporte une réponse détaillée sur les différences entre ces deux filières dans [ce post](https://prepas-mp2i.org/posts/mp2i-ou-mpsi/).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}
 
 {{< admonition quote "Quelles sont les meilleures MP2I ?" false >}}
-La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.fr/inscription/#comment-choisir-sa-pr%C3%A9pa).
+La question n'a pas vraiment de sens puisque "meilleures" dépend de chacun. La question à réellement se poser est "Comment départager mon choix entre les différents lycées ?" : on vous répond [ici](https://prepas-mp2i.org/inscription/#comment-choisir-sa-pr%C3%A9pa).
 
 {{< right >}} *Étudiants en MP2I/MPI* {{< /right >}}
 {{< /admonition >}}

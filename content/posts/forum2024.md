@@ -84,7 +84,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 
 [Stand5]: <https://visio-agents.education.fr/meeting/signin/303219/creator/96179/hash/d7b9d425e8a54507f126547052383e8bc8605088> "Stand 5"
 
-À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.fr/contact/) par Discord ou par mail.
+À vous de choisir le stand selon le planning ci-dessus, ils seront accessibles à partir de 14h. Si vous rencontrez un quelconque problème pour vous connecter [contactez-nous](https://prepas-mp2i.org/contact/) par Discord ou par mail.
 
 ## Intervenants
 

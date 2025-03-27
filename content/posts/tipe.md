@@ -132,7 +132,7 @@ Les exemples présentés ici sont de vrais  TIPE d'étudiants en MPI. Les droits
 
 Un thème en adéquation avec l'actualité : les fameux Jeux Olympiques d'été à Paris !
 
-*Proposez-nous le vôtre par [mail](mailto:contact@prepas-mp2i.fr) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
+*Proposez-nous le vôtre par [mail](mailto:asso.mp2i.mpi@gmail.com) ou sur notre [discord](https://discord.gg/Mu439mBdsv) !*
 
 #### Tétraconcours
 

@@ -21,7 +21,7 @@ Vous avez une proposition pour améliorer ce site ? Vous avez trouvé une erreur
 
 {{< admonition tip "Mail" true >}}
 Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail à l'adresse suivante :
-[contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
+[asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com).
 {{< /admonition >}}
 
 Vous avez une question spécifique à l'un des établissements proposant la formation ?
@@ -71,4 +71,4 @@ Rejoignez notre serveur via ce magnifique bouton :
 
 ## Participer
 
-Si vous souhaitez contribuer au site web, vous pouvez fork le projet sur [Github](https://github.com/prepas-mp2i/prepas-mp2i.fr).
+Si vous souhaitez contribuer au site web, vous pouvez fork le projet sur [Github](https://github.com/prepas-mpi/prepas-mp2i.org).

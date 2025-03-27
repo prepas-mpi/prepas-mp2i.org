@@ -28,7 +28,7 @@ Bien sûr j'ai reçu des propositions d'admissions, mais entre MP2I et MPSI pour
 :(fas fa-lightbulb): *Il avait les spécialités Mathématiques et NSI en Terminale.*
 {{< /admonition >}}
 
-Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.fr/inscription/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
+Pour entrer en **MP2I**, nous vous renvoyons à [cette page](https://prepas-mp2i.org/inscription/#les-sp%C3%A9cialit%C3%A9s-%C3%A0-privil%C3%A9gier).
 
 Pour entrer en **MPSI**, le parcours le plus logique (même si, encore une fois, ce n'est pas le seul possible) est de prendre en Première les spécialités Mathématiques, Physique-Chimie et SI (ou NSI si vous visez déjà l'option informatique), puis de conserver Mathématiques et Physique-Chimie en Terminale, sans oublier l'option Mathématiques expertes.
 
@@ -36,7 +36,7 @@ Pour entrer en **MPSI**, le parcours le plus logique (même si, encore une fois,
 
 La première distinction majeure entre MP2I et MPSI, c'est que plusieurs matières diffèrent :
 
-En **MP2I**, l'informatique est uniquement traitée dans son aspect spécialité (plus d'information sur [cette page](https://prepas-mp2i.fr/informatique/)). Par ailleurs, la chimie est totalement absente du programme (quelques chapitres en MPI cependant) et la SI s'interrompt à partir du second semestre pour les élèves choisissant la voie informatique.
+En **MP2I**, l'informatique est uniquement traitée dans son aspect spécialité (plus d'information sur [cette page](https://prepas-mp2i.org/informatique/)). Par ailleurs, la chimie est totalement absente du programme (quelques chapitres en MPI cependant) et la SI s'interrompt à partir du second semestre pour les élèves choisissant la voie informatique.
 
 En **MPSI**, l'informatique étudiée est celle  du tronc commun (MPSI, PCSI & PTSI) : elle traite une petite partie du programme théorique de l'informatique spécialité et ne concerne que les langages Python et SQL (retrouvez le programme [ici](https://cache.media.education.gouv.fr/file/SPE1-MEN-MESRI-4-2-2021/27/2/spe774_annexe_1373272.pdf)). D'autre part, la chimie a une place importante dans le programme et s'accompagnera de travaux pratiques ; la SI quant à elle sera étudiée toute l'année, sauf pour les élèves choisissant l'option informatique au second semestre.
 
@@ -69,7 +69,7 @@ Un professeur de Physique en CPGE vous met à disposition un récapitulatif des 
     class="invert"
 >}}
 
-Selon votre filière en première année, vous ne pourrez pas accéder aux mêmes cursus de seconde année : c'est un paramètre important à prendre en compte dans votre décision, car selon votre choix vous ne passerez pas les mêmes épreuves aux concours (plus de détails [ici](https://prepas-mp2i.fr/concours/) pour les concours en MPI) et n'aurez pas forcément accès aux mêmes grandes écoles ou filières au sein de celles-ci.
+Selon votre filière en première année, vous ne pourrez pas accéder aux mêmes cursus de seconde année : c'est un paramètre important à prendre en compte dans votre décision, car selon votre choix vous ne passerez pas les mêmes épreuves aux concours (plus de détails [ici](https://prepas-mp2i.org/concours/) pour les concours en MPI) et n'aurez pas forcément accès aux mêmes grandes écoles ou filières au sein de celles-ci.
 
 {{< admonition warning "Fausse bonne idée" true >}}
 Avant que vous ne commenciez à faire quelques plans farfelus : si vous souhaitez poursuivre en MP en seconde année (et encore plus en PSI), ne jouez pas la carte du MP2I "réorienté" comme par magie ! Vous avez tout à y perdre puisque vous n'aurez pas suivi la même année que les élèves prédestinés à ces filières, bien que le second semestre soit là pour vous remettre à niveau. La possibilité de se réorienter est là pour permettre aux élèves de MP2I qui ne se sentent finalement pas à l'aise avec l'informatique de ne pas se retrouver dans une impasse scolaire.

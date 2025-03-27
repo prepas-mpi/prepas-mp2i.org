@@ -1,4 +1,4 @@
-baseURL = "https://prepas-mp2i.fr"  # baseURL shouldn't contains path
+baseURL = "https://prepas-mp2i.org"  # baseURL shouldn't contains path
 title = "Prépas MP2I/MPI"
 theme = "LoveIt"
 defaultContentLanguage = "fr"
@@ -26,12 +26,12 @@ enableEmoji = true
   detailedDescription = "Site des classes préparatoires MP2I/MPI, créé par des étudiants pour aider les futurs bacheliers à s'orienter et à découvrir cette filière scientifique méconnue. Découvrez notre perspective et toutes les informations nécessaires pour faire votre choix !"
   keywords = ["Theme", "Hugo", "MP2I", "MPI", "Prépa"]
   defaultTheme = "auto"
-  gitRepo = "https://github.com/prepas-mp2i/prepas-mp2i.fr/"
+  gitRepo = "https://github.com/prepas-mpi/prepas-mp2i.org/"
   dateFormat = "02/01/2006"
 
   [params.author]
     name = "Étudiants"
-    email = "contact@prepas-mp2i.fr"
+    email = "asso.mp2i.mpi@gmail.com"
     link = "/contact"
 
   [params.app]
@@ -90,8 +90,8 @@ enableEmoji = true
       paginate = 4
 
   [params.social]
-    GitHub = "prepas-mp2i/prepas-mp2i.fr"
-    Email = "contact@prepas-mp2i.fr"
+    GitHub = "prepas-mpi/prepas-mp2i.org"
+    Email = "asso.mp2i.mpi@gmail.com"
     Discord = "Mu439mBdsv"
     
   [params.page]
@@ -122,7 +122,7 @@ enableEmoji = true
 
 [author]
   name = "Étudiants"
-  email = "contact@prepas-mp2i.fr"
+  email = "asso.mp2i.mpi@gmail.com"
 
 [markup]
   [markup.highlight]

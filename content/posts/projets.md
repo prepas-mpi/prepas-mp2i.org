@@ -13,7 +13,7 @@ categories:
 Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure !
 
 {{< admonition tip "Note aux MP2I/MPI" true >}}
-Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [contact@prepas-mp2i.fr](mailto:contact@prepas-mp2i.fr).
+Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com).
 {{< /admonition >}}
 
 ## 2023-2024
@@ -40,9 +40,9 @@ Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos
 
 ### Prépas MP2I
 
-- [prepas-mp2i.fr](https://github.com/prepas-mp2i/prepas-mp2i.fr) : Le code source de ce site web.
+- [prepas-mp2i.org](https://github.com/prepas-mpi/prepas-mp2i.org) : Le code source de ce site web.
 
-- [mp2i-discord-bot](https://github.com/prepas-mp2i/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
+- [mp2i-discord-bot](https://github.com/prepas-mpi/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
 
 ### Loatchi
 

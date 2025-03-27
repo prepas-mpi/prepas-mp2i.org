@@ -39,4 +39,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
-          server-dir: prepas-mp2i.fr/
+          server-dir: prepas-mp2i.org/

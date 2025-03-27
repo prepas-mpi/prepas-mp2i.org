@@ -189,7 +189,7 @@ Si vous êtes placé en liste d'attente, commencez les démarches pour la format
 
 ### Spécificités de chaque ENS
 
-Consultez attentivement le site du département d’informatique de chaque ENS : [Ulm](https://diplome.di.ens.fr/), [Saclay](https://lmf.cnrs.fr/deptinfo-ens/?lang=fr), [Lyon](http://informatique.ens-lyon.fr/fr), [Rennes](https://informatique.ens-rennes.fr/). Notez cependant qu’ils ne sont pas nécessairement à jour. Vous pouvez également trouver des informations et contacter des normaliens sur [notre Discord MP2I/MPI](https://prepas-mp2i.fr/contact/#discord), sur le [Discord des Grandes Écoles](https://discord.gg/yHpZB6HftY) et dans la rubrique “[Contacts et retours d’expérience](#contacts-et-retours-dexpérience)”.
+Consultez attentivement le site du département d’informatique de chaque ENS : [Ulm](https://diplome.di.ens.fr/), [Saclay](https://lmf.cnrs.fr/deptinfo-ens/?lang=fr), [Lyon](http://informatique.ens-lyon.fr/fr), [Rennes](https://informatique.ens-rennes.fr/). Notez cependant qu’ils ne sont pas nécessairement à jour. Vous pouvez également trouver des informations et contacter des normaliens sur [notre Discord MP2I/MPI](https://prepas-mp2i.org/contact/#discord), sur le [Discord des Grandes Écoles](https://discord.gg/yHpZB6HftY) et dans la rubrique “[Contacts et retours d’expérience](#contacts-et-retours-dexpérience)”.
 
 Ces documents peuvent aussi vous intéresser :
 
