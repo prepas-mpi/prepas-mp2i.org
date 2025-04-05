@@ -30,7 +30,9 @@ En MP2I, les cours de mathématiques sont ceux qui représentent le plus gros vo
 
 En revanche, il n’est pas obligatoire de choisir l’option Maths Expertes même si elle reste largement conseillée. Ne pas la suivre n’est pas un facteur éliminatoire pour intégrer la plupart des MP2I, mais elle représente tout de même un atout considérable pour un dossier. En effet, elle permet de mieux cerner votre niveau en mathématiques et surtout d’attester de votre intérêt pour la matière ainsi que de votre investissement.
 
-Les cours dispensés en Maths Expertes se rapprochent également plus des cours de prépa, notamment pour ce qui est du contenu (nombres complexes, arithmétique, matrices et graphes). Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général.
+Les cours dispensés en Maths Expertes se rapprochent également plus des cours de prépa, notamment pour ce qui est du contenu (nombres complexes, arithmétique, matrices et graphes). Suivre cette option est donc un bon moyen de commencer à évaluer votre intérêt pour la MP2I et les CPGE scientifiques en général, puisque les mathématiques y deviendront une composante majeure de votre quotidien. Cela témoigne également d’un investissement personnel dans la matière. Et même si les notions abordées en Maths Expertes seront généralement revues en MP2I, la rapidité avec laquelle ces rappels sont traités rend l’apprentissage beaucoup plus confortable pour celles et ceux qui les ont déjà rencontrées.
+
+Enfin, il ne faut pas sous-estimer l’utilité concrète de cette option : les notions abordées sont utilisées très tôt en CPGE, et rares sont celles et ceux qui les maîtrisent parfaitement dès le départ !
 > Programme de l'option Mathématiques Expertes disponible [ici](https://cache.media.education.gouv.fr/file/SPE8_MENJ_25_7_2019/82/5/spe264_annexe_1158825.pdf).
 
 ### La NSI et la Physique-Chimie
