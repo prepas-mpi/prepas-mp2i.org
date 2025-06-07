@@ -101,13 +101,6 @@ enableEmoji = true
     [params.page.share]
       enable = false
 
-  [params.analytics]
-    enable = true
-    # Google Analytics
-    [params.analytics.google]
-      id = "G-7SXBL516N1"  # add your tracking id
-      anonymizeIP = false
-
   [params.cookieconsent]
     enable = false
 

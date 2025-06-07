@@ -31,6 +31,4 @@ En cas de panne ou de défaillance, le service [Cloudflare](https://www.cloudfla
 
 ## ARTICLE 4 - COLLECTE DES DONNEES
 
-Le site assure à l'utilisateur une collecte et un traitement d'informations personnelles dans le respect de la vie privée conformément à la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
-
-A savoir, les données collectées sont anonymes et utilisées uniquement à des fins d'analyse par le service [Google Analytics](https://analytics.google.com/).
+Le site n'effectue aucune collecte de données.
