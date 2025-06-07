@@ -1,9 +1,5 @@
 {{- $params := .Scratch.Get "params" -}}
 
-<!-- Google Analytics -->
-{{- partial "plugin/analytics.html" . -}}
-<!-- End of Google Analytics -->
-
 <!-- Default meta.html content -->
 <meta name="description" content="{{ .Site.Params.description }}">
 <meta property="og:type" content='{{ if eq .Section "posts" }}article{{ else }}website{{ end }}'>
