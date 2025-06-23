@@ -64,7 +64,6 @@ La MPI étant la filière privilégiée après une MP2I, les places en S.I. sont
 Le choix de la S.I en MP2I est destiné aux élèves qui souhaitent aller en MP ou en PSI, ou pour ceux qui se rendent compte que la manière dont est abordée l'informatique ne leur convient pas.
 
 Voici les volumes horaires du second semestre qui changent selon l'option :
-
 | Option          | Maths | Physique | Chimie | Info |  SI | TIPE | LV1 | Philo-Lettres |
 |:---------------:|:-----:|:--------:|:------:|:----:|:---:|:----:|:---:|:-------------:|
 |   Informatique  |  12   |    6.5   |    0   |   6  |  0  |   2  |  2  |       2       |
@@ -88,13 +87,69 @@ Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière a
 Les lycées les plus prestigieux sont donc, pour la plupart, plus difficiles à intégrer en MP2I qu'en MPSI.
 À noter que la filière reste très accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
-Voici les chiffres cumulés pour l'année 2023 :
+Voici les chiffres cumulés pour l'année 2024 :
 
-- Nombre de places : 1539
-- Nombre moyen de voeux formulés par établissement : 1338
-- Nombre moyen de propositions d'admission envoyées : 235
-- Rang moyen du dernier admis : 398
-- Taux d'admission moyen : 39,3%
+{{< rawhtml >}}
+<div id="stats-mp2i">Chargement des données...</div>
+
+<script>
+fetch("https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-parcoursup/records?limit=100&refine=fil_lib_voe_acc%3A%22MP2I%22")
+  .then(res => res.json())
+  .then(data => {
+    const records = data.results;
+
+    let total_places = 0;
+    let voeux_total = 0;
+    let propositions_total = 0;
+    let rang_total = 0;
+    let taux_total = 0;
+
+    let count_voeux = 0;
+    let count_prop = 0;
+    let count_rang = 0;
+    let count_taux = 0;
+
+    records.forEach(rec => {
+      if (rec.capa_fin != null) total_places += rec.capa_fin;
+      if (rec.voe_tot != null) {
+        voeux_total += rec.voe_tot;
+        count_voeux++;
+      }
+      if (rec.prop_tot != null) {
+        propositions_total += rec.prop_tot;
+        count_prop++;
+      }
+      if (rec.ran_grp1 != null) {
+        rang_total += rec.ran_grp1;
+        count_rang++;
+      }
+      if (rec.taux_acces_ens != null) {
+        taux_total += rec.taux_acces_ens;
+        count_taux++;
+      }
+    });
+
+    const moyenne_voeux = (voeux_total / count_voeux).toFixed(0);
+    const moyenne_prop = (propositions_total / count_prop).toFixed(0);
+    const moyenne_rang = (rang_total / count_rang).toFixed(0);
+    const moyenne_taux = (taux_total / count_taux).toFixed(1) + "%";
+
+    document.getElementById("stats-mp2i").innerHTML = `
+      <ul>
+        <li>Nombre de places : ${total_places}</li>
+        <li>Nombre moyen de voeux formulés par établissement : ${moyenne_voeux}</li>
+        <li>Nombre moyen de propositions d'admission envoyées : ${moyenne_prop}</li>
+        <li>Rang moyen du dernier admis : ${moyenne_rang}</li>
+        <li>Taux d'admission moyen : ${moyenne_taux}</li>
+      </ul>
+    `;
+  })
+  .catch(err => {
+    console.error("Erreur de chargement :", err);
+    document.getElementById("stats-mp2i").innerText = "Impossible de charger les données depuis l'OpenData Parcoursup.";
+  });
+</script>
+{{< /rawhtml >}}
 
 ## Les prépas MP2I en France
 
