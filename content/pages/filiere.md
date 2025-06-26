@@ -87,69 +87,15 @@ Comme la MP2I vient d'ouvrir, il y a eu une grande demande pour cette filière a
 Les lycées les plus prestigieux sont donc, pour la plupart, plus difficiles à intégrer en MP2I qu'en MPSI.
 À noter que la filière reste très accessible dans certains établissements, n'hésitez pas à faire de nombreux vœux pour vous retrouver dans une prépa à votre niveau.
 
-Voici les chiffres cumulés pour l'année 2024 :
+Voici les chiffres cumulés pour l'année 2024 : 
 
-{{< rawhtml >}}
-<div id="stats-mp2i">Chargement des données...</div>
+- Nombre de places : 1617
+- Nombre moyen de voeux formulés par établissement : 1499
+- Nombre moyen de propositions d'admission envoyées : 262
+- Rang moyen du dernier admis : 379
+- Taux d'admission moyen : 40.5%
 
-<script>
-fetch("https://data.education.gouv.fr/api/explore/v2.1/catalog/datasets/fr-esr-parcoursup/records?limit=100&refine=fil_lib_voe_acc%3A%22MP2I%22")
-  .then(res => res.json())
-  .then(data => {
-    const records = data.results;
-
-    let total_places = 0;
-    let voeux_total = 0;
-    let propositions_total = 0;
-    let rang_total = 0;
-    let taux_total = 0;
-
-    let count_voeux = 0;
-    let count_prop = 0;
-    let count_rang = 0;
-    let count_taux = 0;
-
-    records.forEach(rec => {
-      if (rec.capa_fin != null) total_places += rec.capa_fin;
-      if (rec.voe_tot != null) {
-        voeux_total += rec.voe_tot;
-        count_voeux++;
-      }
-      if (rec.prop_tot != null) {
-        propositions_total += rec.prop_tot;
-        count_prop++;
-      }
-      if (rec.ran_grp1 != null) {
-        rang_total += rec.ran_grp1;
-        count_rang++;
-      }
-      if (rec.taux_acces_ens != null) {
-        taux_total += rec.taux_acces_ens;
-        count_taux++;
-      }
-    });
-
-    const moyenne_voeux = (voeux_total / count_voeux).toFixed(0);
-    const moyenne_prop = (propositions_total / count_prop).toFixed(0);
-    const moyenne_rang = (rang_total / count_rang).toFixed(0);
-    const moyenne_taux = (taux_total / count_taux).toFixed(1) + "%";
-
-    document.getElementById("stats-mp2i").innerHTML = `
-      <ul>
-        <li>Nombre de places : ${total_places}</li>
-        <li>Nombre moyen de voeux formulés par établissement : ${moyenne_voeux}</li>
-        <li>Nombre moyen de propositions d'admission envoyées : ${moyenne_prop}</li>
-        <li>Rang moyen du dernier admis : ${moyenne_rang}</li>
-        <li>Taux d'admission moyen : ${moyenne_taux}</li>
-      </ul>
-    `;
-  })
-  .catch(err => {
-    console.error("Erreur de chargement :", err);
-    document.getElementById("stats-mp2i").innerText = "Impossible de charger les données depuis l'OpenData Parcoursup.";
-  });
-</script>
-{{< /rawhtml >}}
+*Données extraites grâce à [ce script python](/technical/forum/parcoursup_extraction.py) et aux données fournies par data.education.gouv.fr*
 
 ## Les prépas MP2I en France
 
