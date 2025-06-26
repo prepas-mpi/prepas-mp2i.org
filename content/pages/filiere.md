@@ -95,7 +95,7 @@ Voici les chiffres cumulés pour l'année 2024 :
 - Rang moyen du dernier admis : 379
 - Taux d'admission moyen : 40.5%
 
-*Données extraites grâce à [ce script python](/technical/forum/parcoursup_extraction.py) et aux données fournies par data.education.gouv.fr*
+*Données extraites grâce à [ce script python](/technical/parcoursup_extraction.py) et aux données fournies par data.education.gouv.fr*
 
 ## Les prépas MP2I en France
 
