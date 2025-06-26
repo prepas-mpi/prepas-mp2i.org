@@ -21,7 +21,7 @@ Retrouvez les sujets et les rapports de jury de toutes les épreuves sur les sit
 {{< /admonition >}}
 
 {{< admonition tip "Exercices d'oraux" true >}}
-Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS). Des exemples d'oraux de physique pour le Concours Commun Mines-Ponts vous sont également mis à disposition [ici](https://concoursminesponts.fr/wp-content/uploads/2025/04/Fiches-Physique.pdf).
+Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales scientifiques de concours aux grandes écoles](https://beos.prepas.org) (BEOS).
 {{< /admonition >}}
 
 ## 2024
