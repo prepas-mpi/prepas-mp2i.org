@@ -52,7 +52,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 | Louis Le Grand | Paris 05 | [mp2i.llg@gmail.com](mailto:mp2i.llg@gmail.com) |
 | Louis Thuillier | Amiens | [titouan.leveque@protonmail.com](mailto:titouan.leveque@protonmail.com) |
 | Montaigne | Bordeaux | [albin.comet@laposte.net](mailto:albin.comet@laposte.net) |
-| Paul Valery | Paris 12 | [leloup05a@gmail.com](mailto:leloup05a@gmail.com) |
+| Paul Valery | Paris 12 | [draymonepro@gmail.com](mailto:draymonepro@gmail.com) |
 | Pierre De Fermat | Toulouse | [raphael.farenc@gmail.com](mailto:raphael.farenc@gmail.com) |
 | Henri Poincaré | Nancy | [remi.ruffin21@gmail.com](mailto:remi.ruffin21@gmail.com) |
 | Saint-Louis | Paris 06 | [fusetim.log@gmx.com](mailto:fusetim.log@gmx.com) |
