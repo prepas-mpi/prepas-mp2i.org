@@ -88,8 +88,8 @@ Retrouvez une compilation d'exercices oraux dans la [Base d'épreuves orales sci
 
 | Épreuve | Sujet | Rapport | Corrigé |
 |:-------:|:-----:|:-------:| :-----: |
-| Mathématiques   | Dans le rapport | [![Rapport_corrigee_maths_E3A_Polytech.pdf](/icons/download.ico)](/documents/rapports/2024/Rapport_corrigee_maths_E3A_Polytech.pdf) | Dans le rapport|
-| Physique-Chimie | A venir ? | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2024/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2024/E3A_Correction_Physique-Chimie_MPI.pdf) |
+| Mathématiques   | [![E3A_Maths_MPI.pdf](/icons/download.ico)](/documents/sujets/2025/E3A_Maths_MPI.pdf) | A venir | Dans le rapport|
+| Physique-Chimie | [![E3A_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/sujets/2025/E3A_Physique-Chimie_MPI.pdf) | [![E3A_Rapport_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2025/E3A_Rapport_Physique-Chimie_MPI.pdf) | [![E3A_Correction_Physique-Chimie_MPI.pdf](/icons/download.ico)](/documents/rapports/2025/E3A_Correction_Physique-Chimie_MPI.pdf) |
 
 ## 2024
 
