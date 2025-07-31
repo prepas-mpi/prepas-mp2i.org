@@ -24,7 +24,7 @@ Vous pouvez aussi faire un retour sur l'évenement en temps que spectateur [ici]
 {{< figure
     caption="Réalisée par Emma"
     src="/images/forum/affiche_2025.webp"
-    link="/documents/forum/affiche_2025.png"
+    link="/images/forum/affiche_2025.webp"
 >}}
 
 ## Présentation
