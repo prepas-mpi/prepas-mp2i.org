@@ -96,4 +96,4 @@ Cette année, déjà 14 prépas MP2I/MPI ont annoncé leur présence ! Vous trou
 
 ## Forums précédents
 
-Vous pouvez retrouver la liste de tous les forums et autres événements sur [cette page](/categories/%C3%A9v%C3%A8nements/)
+Vous pouvez retrouver la liste de tous les forums et autres événements sur [cette page](/categories/%C3%A9v%C3%A8nements/).
