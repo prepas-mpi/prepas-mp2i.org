@@ -39,9 +39,10 @@ Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.or
 Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
 poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
 
-Bien que les CPGE aient d'abord pour objectif de préparer leurs étudiants à des [concours](/concours), ces derniers ne constituent pas la seule issue possible en sortie de classe préparatoire. En effet, il existe de nombreux moyens de poursuivre ses études après une classe préparatoire autrement que dans une école obtenue lors d'un concours d'une des banques principales.
+L'objectif premier des CPGE scientifiques est de préparer à différents [concours](/concours) qui conditionnent l'entrée dans [certaines écoles](https://prepas.org/index.php?entree=bacorge), la plupart d'entre elles délivrant un diplome d'ingénieur après 3 ans (à bac+5 donc). Ainsi, la poursuite d'étude la plus commune après une classe préparatoire est l'intégration d'une de ces écoles. 
+Elles ne constituent cependant pas la seule issue possible en sortie de CPGE. En effet, il existe de nombreux moyens de poursuivre ses études après une classe préparatoire autrement que dans une école obtenue lors d'un concours de l'une des banques principales.
 
-Vous pouvez retrouver des retours d'élèves ayant intégré des écoles d'ingénieurs [ici](/scei/) et des retours d'élèves ayant intégré des formations en dehors des concours principaux [ici](/posts/fac/).
+> Vous pouvez retrouver des retours d'élèves ayant intégré des écoles d'ingénieurs [ici](/scei/) et des retours d'élèves ayant intégré des formations en dehors des concours principaux [ici](/posts/fac/).
 
 {{< admonition tip "Formations en informatique" true >}}
 Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
