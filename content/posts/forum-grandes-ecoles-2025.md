@@ -12,7 +12,7 @@ draft: true
 ---
 
 {{< admonition info "Forum terminé" >}}
-Le forum des Grandes Écoles 2025 est terminé ! Cette année, quelques dizaines de préparationnaires ont pu être informés grâce au forum ! {{< newline >}}.
+Le forum des Grandes Écoles 2025 est terminé ! Cette année, quelques dizaines de préparationnaires ont pu être informés grâce au forum ! {{< newline >}}
 Vous pouvez aussi faire un retour sur l'évenement en temps que spectateur [ici](https://forms.gle/GB5bBJwAM7fjqr9h8).
 {{< /admonition >}}
 
