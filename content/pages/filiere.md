@@ -34,6 +34,10 @@ Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spéc
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
 {{< /admonition >}}
 
+{{< admonition tip "Formations en informatique" true >}}
+Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
+{{< /admonition >}}
+
 ## Poursuite d'études
 
 Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
@@ -43,10 +47,6 @@ L'objectif premier des CPGE scientifiques est de préparer à différents [conco
 Elles ne constituent cependant pas la seule issue possible en sortie de CPGE. En effet, il existe de nombreux moyens de poursuivre ses études après une classe préparatoire autrement que dans une école obtenue lors d'un concours de l'une des banques principales.
 
 > Vous pouvez retrouver des retours d'élèves ayant intégré des écoles d'ingénieurs [ici](/scei/) et des retours d'élèves ayant intégré des formations en dehors des concours principaux [ici](/posts/fac/).
-
-{{< admonition tip "Formations en informatique" true >}}
-Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
-{{< /admonition >}}
 
 ## Le programme en MP2I
 
