@@ -39,6 +39,10 @@ Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.or
 Après une classe préparatoire, intégrée ou non, vous avez la possibilité de
 poursuivre en master (bac+5), puis éventuellement en doctorat (bac+8). Mais également de poursuivre en licence, ou dans des universités à l'étranger.
 
+Bien que les CPGE aient d'abord pour objectif de préparer leurs étudiants à des [concours](/concours), ces derniers ne consistituent pas la seule issue possible en sortie de classe préparatoire. En effet, il existe de nombreux moyens de poursuivre ses études autrement que dans une école obtenue lors d'un concours des banques principales.
+
+Vous pouvez retrouver des retours d'élèves ayant intégré des écoles d'ingénieurs [ici](/scei/) et des retours d'élèves ayant intégré des formations en dehors des concours principaux [ici](/posts/fac/).
+
 {{< admonition tip "Formations en informatique" true >}}
 Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
 {{< /admonition >}}
@@ -51,6 +55,8 @@ Une description plus détaillée du cours d'informatique est disponible sur [cet
 
 Concernant les autres matières, la LV2 (1 ou 2 heures) est facultative ainsi que le sport dans la majorité des lycées.
 Mais la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
+
+Pour vous renseigner sur la différence entre MP2I et MPSI et comment savoir laquelle choisir vous pouvez consulter [cette page](/posts/mp2i_ou_mpsi/).
 
 ## La spécialité en deuxième année
 

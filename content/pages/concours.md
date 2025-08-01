@@ -147,6 +147,10 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 
 {{< /admonition >}}
 
+### Autres voies d'admission
+
+Les concours ne sont pas les seuls moyens d'intègrer les ENS, voir [admissions sur dossier](/posts/ens-sur-dossier/).
+
 ## Concours Centrale
 
 > {{< center >}}
