@@ -18,7 +18,7 @@ Vous pouvez aussi faire un retour sur l'événement en temps que spectateur [ici
 
 ## Présentation
 
-De la même façon que le forum dédié à renseigner les lycéen(ne)s sur la MP2I/MPI, le forum des Grandes Écoles a pour but de renseigner nos chères bêtes de concours sur ce qui peut les attendre pour la suite.
+De la même façon que le forum dédié à renseigner les lycéen(ne)s sur la MP2I/MPI, le forum des Grandes Écoles a pour but de renseigner les préparationnaires aux différents concours sur ce qui peut les attendre pour la suite.
 
 ## Organisation
 
