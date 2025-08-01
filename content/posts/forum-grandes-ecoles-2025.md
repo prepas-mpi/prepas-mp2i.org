@@ -8,7 +8,6 @@ tags:
     - préparationnaires
 categories:
     - Évènements
-draft: true
 ---
 
 {{< admonition info "Forum terminé" >}}
