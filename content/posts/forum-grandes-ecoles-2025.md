@@ -34,7 +34,7 @@ Cette première édition a eu lieu intégralement sur [discord](https://discord.
 
 Cette année, 19 écoles ont participé au forum ! Vous trouverez ci-dessous la liste des 22 intervenants et intervenantes qui ont aidé à leur présentation :
 
-| ENS Ulm | ENS Lyon | ENS Lyon | ENS Paris Saclay | Polytechnique (X) | Centrale Supélec | Mines de Paris | ENSTA Paris | Télécom SudParis | Télécom Nancy | Télécom Nancy | EURECOM | ENSIIE | ENSIIE | ENS Géomatique | ENSIMAG | ENSAI Rennes | ESISAR | CY Tech | INSA Toulouse | ENSIBS | emlyon |
+| ENS Ulm | ENS Lyon | ENS Lyon | ENS Paris Saclay | Polytechnique | Centrale Supélec | Mines de Paris | ENSTA Paris | Télécom SudParis | Télécom Nancy | Télécom Nancy | EURECOM | ENSIIE | ENSIIE | ENS Géomatique | ENSIMAG | ENSAI Rennes | ESISAR | CY Tech | INSA Toulouse | ENSIBS | EM Lyon |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|:---:|:---:|
 | Antoine | Elouan | Vivien | Alaska | François-Xavier | Mrtn | Nathan | Théo | Triw | Ganda | Ely | H3xerty | Agryos | Nicolas | Emma (son copain) | Joachim | Maxime | Eros | Chat_Vert | Alain | Margaux | Jeremy |
 
