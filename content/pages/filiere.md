@@ -35,7 +35,7 @@ Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.or
 {{< /admonition >}}
 
 {{< admonition tip "Formations en informatique" true >}}
-Il existe plein d'autres cursus pour faire de l'informatique, les voici [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
+Il existe plein d'autres cursus pour faire de l'informatique, dont une liste est disponible [à cette adresse](https://cien.gouv.mc/content/download/90346/file/Les%20diff%C3%A9rentes%20fili%C3%A8res%20de%20l%27informatique%202022.pdf?inLanguage=fre-FR&version=3).
 {{< /admonition >}}
 
 ## Poursuite d'études
