@@ -1,6 +1,6 @@
 baseURL = "https://prepas-mp2i.org"  # baseURL shouldn't contains path
 title = "Prépas MP2I/MPI"
-theme = "LoveIt"
+theme = "dolt"
 defaultContentLanguage = "fr"
 languageCode = "fr"
 enableRobotsTXT = true
@@ -9,7 +9,7 @@ enableEmoji = true
 
 [menu]
   [[menu.main]]
-    pre = """<i class="fas fa-folder-open fa-fw"></i>"""
+    pre = "{{< fa-icon \"folder-open\" \"fas\" >}}"
     url = "/categories/"
     weight = 9
 
@@ -97,7 +97,6 @@ enableEmoji = true
   [params.page]
     hiddenFromHomePage = false
     hiddenFromSearch = false
-    fontawesome = true
     [params.page.share]
       enable = false
 
@@ -112,10 +111,6 @@ enableEmoji = true
 [Permalinks]
   posts = '/posts/:slug'
   pages = '/:filename'
-
-[author]
-  name = "Étudiants"
-  email = "asso.mp2i.mpi@gmail.com"
 
 [markup]
   [markup.highlight]
