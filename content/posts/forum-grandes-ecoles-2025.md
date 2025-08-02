@@ -40,7 +40,7 @@ Cette année, 19 écoles ont participé au forum ! Vous trouverez ci-dessous la 
 
 | ENS Ulm | ENS Lyon | ENS Lyon | ENS Paris Saclay | Polytechnique | Centrale Supélec | Mines de Paris | ENSTA Paris | Télécom SudParis | Télécom Nancy | Télécom Nancy | EURECOM | ENSIIE | ENSIIE | ENS Géomatique | ENSIMAG | ENSAI Rennes | ESISAR | CY Tech | INSA Toulouse | ENSIBS | EM Lyon |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:---:|:---:|:---:|
-| Antoine | Elouan | Vivien | Alaska | François-Xavier | Mrtn | Nathan | Théo | Triw | Ganda | Ely | H3xerty | Agryos | Nicolas | Emma (son copain) | Joachim | Maxime | Eros | Chat_Vert | Alain | Margaux | Jeremy |
+| Antoine | Elouan | Vivien | Alaska | François-Xavier | Mrtn | Nathan | Théo | Triw | Ganda | Ely | H3xerty | Agryos | Nicolas | Delphin | Joachim | Maxime | Eros | Chat_Vert | Alain | Margaux | Jeremy |
 
 ## Forums précédents
 
