@@ -10,6 +10,11 @@ categories:
     - Évènements
 ---
 
+{{< admonition warning "Forum MP2I" >}}
+Cette page concerne le forum **des Grandes Écoles** accessibles après une MPI, destiné premièrement aux préparationnaires.
+Si vous êtes au lycée et que vous êtes intéressé par la MP2I, les informations concernant le forum de la filière sont disponibles sur [cette page](/forum).
+{{< /admonition >}}
+
 {{< admonition info "Forum terminé" >}}
 Le forum des Grandes Écoles 2025 est terminé ! Cette année, une soixantaine de préparationnaires a pu être informée grâce au forum ! {{< newline >}}
 Vous pouvez aussi faire un retour sur l'événement en temps que spectateur [ici](https://forms.gle/GB5bBJwAM7fjqr9h8).
