@@ -159,7 +159,7 @@
                     </span>&nbsp;
                 {{- end -}}
                 {{- with .Params.tags -}}
-                    <i class="fa fa-user"></i></i>&nbsp;Pour les {{ delimit . " et les "}}&nbsp;
+                    {{ partial "plugin/fontawesome.html" (dict "Style" "solid" "Icon" "user") }}&nbsp;Pour les {{ delimit . " et les "}}&nbsp;
                 {{- end -}}
             </div>
         </div>
