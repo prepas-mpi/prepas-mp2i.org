@@ -3,6 +3,7 @@ title: Les cours d'informatique en MP2I et MPI
 subtitle: Une brève introduction à cette matière magique !
 url: /informatique
 date: 2021-12-20T00:07:18+01:00
+summary: Qui dit nouvelle filière, dit nouveaux professeurs et nouveaux cours. Vous vous demandez sûrement en quoi consiste le cours d'informatique en MP2I et MPI, et bien cette page est là pour vous éclairer !
 tags:
     - lycéens
 categories:

@@ -4,7 +4,7 @@ url: /forum
 slug: forum-2025
 date: 2025-01-24T20:42:00+01:00
 author: Triw
-summary: Page de présentation du forum 2025. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2025.
+summary: Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum !
 menu:
     main:
         name: Forum
