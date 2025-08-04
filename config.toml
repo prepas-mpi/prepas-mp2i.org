@@ -100,6 +100,12 @@ enableEmoji = true
     linkToReport = "https://github.com/prepas-mpi/prepas-mp2i.org/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/prepas-mpi/prepas-mp2i.org/blob/master/content/{path}|"
     hiddenFromHomePage = false
     hiddenFromSearch = false
+
+    [params.page.toc]
+      enable = true
+      keepStatic = false
+      auto = true
+      
     [params.page.share]
       enable = false
 
