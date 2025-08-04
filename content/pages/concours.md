@@ -162,11 +162,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | :-------------: | :--------: | :--------: | :---------: | :---------: | :-----------------: | :-----------------: | :----: |
 |    Info MPI     |     15     |     20     |      4      |      5      |          5          |          5          |   5    |
 |     TP Algo     |     -      |     20     |      -      |      6      |          6          |          6          |   5    |
-<<<<<<< Updated upstream
-|      TIPE       |     -      |     -      |      2      |      2      |          2          |          2          |   5    |
-=======
 | [TIPE](/posts/tipe#le-tipe-ens) |     -      |     -      |      2      |      2      |          2          |          2          |   5    |
->>>>>>> Stashed changes
 | Langue Vivante  |     3      |     3      |     1.5     |     1.5     |         1.5         |         1.5         |   2    |
 |    Maths ULS    |     15     |     -      |      4      |      4      |          5          |          5          |   -    |
 |     Maths L     |     -      |     -      |      6      |      -      |          -          |          -          |   -    |
