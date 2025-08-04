@@ -16,7 +16,7 @@ Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https:/
 ```sh
 git clone https://github.com/prepas-mpi/prepas-mp2i.org
 cd prepas-mp2i.org
-git submodule init && git submodule update --remote
+git submodule init && git submodule update
 ```
 
 Pour tester le site en local:
