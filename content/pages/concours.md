@@ -148,7 +148,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 |  [TIPE][TIPEENS]  | 40 mins |     -       |
 |  Langue Vivante   | 30 mins |   30 mins   |
 |     Maths ULS     | 40 mins |     -       |
-|      Maths L      |   1h?   |     -       |
+|      Maths L      |   1h    |     -       |
 |      Maths U      |   1h?   |     -       |
 |    Physique U     |   1h?   |     -       |
 
