@@ -149,7 +149,7 @@ L'épreuve de **Langue Vivante** est commune à l'[épreuve du concours Polytech
 | :---------------: | :-----: | :---------: |
 | Info Fondamentale | 40 mins |   20 mins   |
 |      TP Algo      | 20 mins |    3h30     |
-|  [TIPE][TIPEENS]  | 40 mins |     -       |
+|  [TIPE](/posts/tipe#le-tipe-ens)  | 40 mins |     -       |
 |  Langue Vivante   | 30 mins |   30 mins   |
 |     Maths ULS     | 40 mins |     -       |
 |      Maths L      |   1h    |     -       |
