@@ -9,3 +9,15 @@
 .header-title span.ti-cursor {
     transform: translateY(-2.5px);
 }
+
+body {
+    &[theme=dark] {
+        .invert {
+            filter: invert(83.14%);
+        }
+    }
+}
+
+img {
+    display: unset;
+}
