@@ -43,10 +43,21 @@ enableEmoji = true
 
   [params.search]
     enable = true
-    type = "lunr"
-    maxResultLength = 10
+    type = "fuse"
+    maxResultLength = 7
     snippetLength = 30
     highlightTag = "em"
+
+    [params.search.fuse]
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
 
   [params.header]
     desktopMode = "fixed"
