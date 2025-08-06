@@ -11,7 +11,7 @@ Le dépôt original est disponible à [cette URL](https://github.com/prepas-mp2i
 
 ## Setup
 
-Installez [Hugo](https://gohugo.io/getting-started/installing/) et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis configurez le repo:
+Installez [Hugo](https://gohugo.io/getting-started/installing/) (en version "extended") et [Git](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git) puis configurez le repo:
 
 ```sh
 git clone https://github.com/prepas-mpi/prepas-mp2i.org
