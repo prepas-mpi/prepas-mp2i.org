@@ -1,0 +1,16 @@
+
+img {
+    display: unset;
+}
+
+.page {
+    max-width: 100%;
+}
+
+.dark .single .post-meta a {
+    color: var(--single-link-color) !important;
+
+    &:hover {
+        color: var(--single-link-hover-color) !important;
+    }
+}
