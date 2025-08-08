@@ -42,7 +42,7 @@ Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos
 
 - [prepas-mp2i.org](https://github.com/prepas-mpi/prepas-mp2i.org) : Le code source de ce site web.
 
-- [mp2i-discord-bot](https://github.com/prepas-mpi/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.gg/w4ugrwy84w)
+- [mp2i-discord-bot](https://github.com/prepas-mpi/mp2i-discord-bot) : Le bot du serveur Discord [Prépas MP2I](https://discord.prepas-mp2i.org/)
 
 ### Loatchi
 
