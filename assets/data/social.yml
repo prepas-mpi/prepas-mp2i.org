@@ -19,7 +19,7 @@ email:
 # 003: Discord
 discord:
   Weight: 3
-  Prefix: https://discord.gg/
+  Prefix: https://
   Title: Discord
   Newtab: true
   Icon:

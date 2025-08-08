@@ -67,7 +67,7 @@ Voici les mails des étudiants désignés comme représentant de leur établisse
 Vous souhaitez discuter avec des étudiants de la filière ?
 Rejoignez notre serveur via ce magnifique bouton :
 {{< center >}}
-[![Discord](https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2)](https://discord.gg/Mu439mBdsv)
+[![Discord](https://discordapp.com/api/guilds/872138069594214410/widget.png?style=banner2)](https://discord.prepas-mp2i.org/)
 {{< /center >}}
 
 ## Participer

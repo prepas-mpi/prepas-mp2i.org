@@ -97,7 +97,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 [Stand6]: <https://visio-agents.education.fr/meeting/signin/invite/437058/creator/96179/hash/910e3a0ec0e42d39f90342fd9012fc5c5baccba3> "Stand 6"
 
 {{< admonition question "Des questions ?" false >}}
-Vous pouvez poser vos questions sur le [Discord](https://discord.gg/Mu439mBdsv) ou par mail : [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
+Vous pouvez poser vos questions sur le [Discord](https://discord.prepas-mp2i.org/) ou par mail : [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
 {{< /admonition >}}
 
 ## Intervenants

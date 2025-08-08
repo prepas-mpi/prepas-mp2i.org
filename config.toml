@@ -102,7 +102,7 @@ enableEmoji = true
   [params.social]
     GitHub = "prepas-mpi/prepas-mp2i.org"
     Email = "asso.mp2i.mpi@gmail.com"
-    Discord = "Mu439mBdsv"
+    Discord = "discord.prepas-mp2i.org/"
     
   [params.page]
     linkToMarkdown = true
