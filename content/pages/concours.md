@@ -719,3 +719,70 @@ Pour les autres écoles, il y a un **entretien** affecté des coefficients suiva
 
 [TIPE]: https://prepas-mp2i.org/posts/tipe/#le-tipe-tétraconcours
 [TIPEENS]: https://prepas-mp2i.org/posts/tipe/#le-tipe-ens
+
+
+## Carte des écoles
+
+{{< rawhtml >}}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<div style="margin: 1em 0; text-align: center;">
+  <label for="contest">Concours :</label>
+  <select id="contest" style="font-size: 1em; padding: 5px;">
+    <option value="minesponts">Mines-Ponts</option>
+    <option value="xens">X-ENS</option>
+    <option value="ccinp">CCINP</option>
+  </select>
+</div>
+<div id="map" style="width: 100%; height: 500px;"></div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+  const map = L.map('map').setView([46.8, 2.5], 6);
+  L.tileLayer('https://{s}.tile.openstreetmap.fr/osmfr/{z}/{x}/{y}.png', {
+    attribution: '&copy; OpenStreetMap France; Contributeurs <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+
+  const colors = {
+    minesponts: 'blue',
+    xens: 'red',
+    ccinp: 'green'
+  };
+
+  let currentMarkers = [];
+
+  function updateMarkers(contest, data) {
+    currentMarkers.forEach(marker => map.removeLayer(marker));
+    currentMarkers = [];
+
+    if (!data[contest]) return;
+
+    data[contest].forEach(school => {
+      const marker = L.circleMarker([school.lat, school.lon], {
+        color: colors[contest],
+        radius: 8,
+        fillOpacity: 0.7
+      }).addTo(map);
+
+      const popupContent = `
+        <div class="popup-content">
+          <img src="${school.image}" alt="${school.name}" style="width:100%; border-radius:6px; margin-bottom:6px;" />
+          <strong>${school.name}</strong><br/>
+          <a href="${school.link}" target="_blank">Site officiel</a><br/>
+          <em>Voies d'admission : ${school.voies}</em>
+        </div>
+      `;
+
+      marker.bindPopup(popupContent);
+      currentMarkers.push(marker);
+    });
+  }
+
+  fetch('/data/ecoles.json')
+    .then(res => res.json())
+    .then(data => {
+      const select = document.getElementById('contest');
+      select.addEventListener('change', () => updateMarkers(select.value, data));
+      updateMarkers(select.value, data);
+    });
+</script>
+{{< /rawhtml >}}

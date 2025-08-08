@@ -1,0 +1,46 @@
+{
+    "minesponts": [
+      {
+        "name": "École des Mines de Paris",
+        "lat": 48.8416,
+        "lon": 2.3454,
+        "link": "https://www.minesparis.psl.eu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ecole_des_Mines_de_Paris.jpg/320px-Ecole_des_Mines_de_Paris.jpg",
+        "voies": "MP, PC, PSI, PT"
+      }
+    ],
+    "xens": [
+        {
+            "name": "École Polytechnique (L'X)",
+            "lat": 48.7143006,
+            "lon": 2.2087168,
+            "link": "https://www.polytechnique.edu/",
+            "image": "https://www.polytechnique.edu/sites/default/files/styles/nc_editor_image/public/content/pages/images/2022-01/15412592080_daf61c7912_k.jpg?itok=_5BJC9_d",
+            "voies": "Status millitaire : 24"
+        },
+        {
+            "name": "ENS Ulm",
+            "lat": 48.8417, 
+            "lon": 2.3446,
+            "link": "https://www.ens.psl.eu",
+            "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEQkbRdNSTDQZ0nulfepKyUY_A9gMax2zvB663DoWxdhAnZIu3Z7ycleU0XefRt4EAzlR1UuC0Da_rR7b9G1I3HFpPsBjKyPlaa-tzf5IsY4g-gJl_M58N3jAJ3pU2aZv1-_uF0A=s1360-w1360-h1020-rw",
+            "voies": "Status fonctionnaire : 8"
+        }
+    ],
+    "ccinp": [
+      {
+        "name": "ENSEEIHT Toulouse",
+        "lat": 43.6044,
+        "lon": 1.4439,
+        "link": "https://www.enseeiht.fr",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ENSEEIHT_-_Facade.jpg/320px-ENSEEIHT_-_Facade.jpg",
+        "voies": "MP, PC, PSI, PT, TSI"
+      }
+    ], 
+    "centralesupelec": [
+        {
+
+        }
+    ]
+  }
+  
