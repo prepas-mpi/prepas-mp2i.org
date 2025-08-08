@@ -196,7 +196,7 @@ int fibo(int n)
      * Un simple égal est considéré comme une assignation.
      * Des parenthèses sont nécessaires autour de chaque expression logique. 
      */
-    if (n == 0)      // On peut omettre les accolades si il y a qu'une seule expression dans le bloc
+    if (n == 0)      // On peut omettre les accolades s'il n'y a qu'une seule expression dans le bloc
         return 0;
     else if (n == 1) // Pareil qu'en Python, on peut aussi omettre les else ici
         return 1; 
