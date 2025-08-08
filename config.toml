@@ -120,6 +120,9 @@ enableEmoji = true
     [params.page.share]
       enable = false
 
+    [params.page.code]
+      maxShownLines = 20
+
   [params.cookieconsent]
     enable = false
   
