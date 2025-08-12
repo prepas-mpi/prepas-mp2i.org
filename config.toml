@@ -105,7 +105,7 @@ enableEmoji = true
     Discord = "discord.prepas-mp2i.org/"
     
   [params.page]
-    linkToMarkdown = true
+    linkToMarkdown = false
     linkToSource = "https://github.com/prepas-mpi/prepas-mp2i.org/blob/master/content/{path}"
     linkToEdit = "https://github.com/prepas-mpi/prepas-mp2i.org/edit/develop/content/{path}"
     linkToReport = "https://github.com/prepas-mpi/prepas-mp2i.org/issues/new?title=[bug]%20{title}&body=|Field|Value|%0A|-|-|%0A|Title|{title}|%0A|Url|{url}|%0A|Filename|https://github.com/prepas-mpi/prepas-mp2i.org/blob/master/content/{path}|"
