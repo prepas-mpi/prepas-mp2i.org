@@ -4,7 +4,7 @@ url: /forum
 slug: forum-2025
 date: 2025-01-24T20:42:00+01:00
 author: Triw
-summary: Page de présentation du forum 2025. Vous y trouverez toutes les informations concernant le forum de la filière MPI-MP2I, édition 2025.
+summary: Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum !
 menu:
     main:
         name: Forum
@@ -97,7 +97,7 @@ Vous trouverez ci-dessous les liens vers les différentes visioconférences :
 [Stand6]: <https://visio-agents.education.fr/meeting/signin/invite/437058/creator/96179/hash/910e3a0ec0e42d39f90342fd9012fc5c5baccba3> "Stand 6"
 
 {{< admonition question "Des questions ?" false >}}
-Vous pouvez poser vos questions sur le [Discord](https://discord.gg/Mu439mBdsv) ou par mail : [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
+Vous pouvez poser vos questions sur le [Discord](https://discord.prepas-mp2i.org/) ou par mail : [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
 {{< /admonition >}}
 
 ## Intervenants
