@@ -10,7 +10,7 @@ Ces dernières sont accessibles sur le site à la rubrique « Mentions légales 
 
 ## ARTICLE 1 - EDITION
 
-L'édition du site est assurée par l'Association loi 1901 des étudiants en classes préparatoire aux grandes écoles MP2I-MPI, dont l'adresse mail est <asso.mp2i.mpi@gmail.com>, via le service d'hébergement de projets [Github](https://github.com/). Cette association regroupe des dizaines d'étudiants en Classe Préparatoire aux Grandes Ecoles, filière MP2I (Mathématiques Physique Informatique et Ingénierie) et MPI (Mathématiques Physique Informatique).
+L'édition du site est assurée par l'Association loi 1901 des étudiants en classes préparatoire aux grandes écoles MP2I-MPI, dont l'adresse mail est <contact@prepas-mp2i.org>, via le service d'hébergement de projets [Github](https://github.com/). Cette association regroupe des dizaines d'étudiants en Classe Préparatoire aux Grandes Ecoles, filière MP2I (Mathématiques Physique Informatique et Ingénierie) et MPI (Mathématiques Physique Informatique).
 
 Le projet associé au site est Open Source et l'édition est accessible à l'adresse [https://github.com/prepas-mpi/prepas-mp2i.org](https://github.com/prepas-mpi/prepas-mp2i.org).
 

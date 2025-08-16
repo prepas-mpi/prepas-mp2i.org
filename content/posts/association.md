@@ -29,7 +29,7 @@ Les objectifs de l'association sont :
 L'association est ouverte à tous les étudiants actuels de CPGE MP2I et MPI, ainsi qu'aux anciens étudiants de CPGE MP2I et/ou MPI.
 
 {{< style "text-align:center; font-size: 1.5em; margin: 1em" >}}
-**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle/widget)**
+**[Adhérer à l'association](https://www.helloasso.com/associations/association-des-etudiants-en-classes-preparatoires-aux-grandes-ecoles-mp2i-mpi/adhesions/adhesion-annuelle-2025-2026)**
 {{< /style >}}
 
 {{< admonition info "Professeurs" true >}}
@@ -37,7 +37,7 @@ Le titre de "Membre Honoraire" peut être accordé sur demande aux professeurs d
 {{< /admonition >}}
 
 {{< admonition question "Un problème ?" true >}}
-Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord](https://discord.com/invite/kVMcJQujZW) ou par mail [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com)
+Une question ? Un problème ? Vous pouvez nous contacter sur le [serveur Discord](https://discord.com/invite/kVMcJQujZW) ou par mail [contact@prepas-mp2i.org](mailto:contact@prepas-mp2i.org)
 {{< /admonition >}}
 
 ## Composition du conseil d'administration

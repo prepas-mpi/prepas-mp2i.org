@@ -31,7 +31,7 @@ enableEmoji = true
 
   [params.author]
     name = "Étudiants"
-    email = "asso.mp2i.mpi@gmail.com"
+    email = "contact@prepas-mp2i.org"
     link = "/contact"
 
   [params.app]
@@ -101,7 +101,7 @@ enableEmoji = true
 
   [params.social]
     GitHub = "prepas-mpi/prepas-mp2i.org"
-    Email = "asso.mp2i.mpi@gmail.com"
+    Email = "contact@prepas-mp2i.org"
     Discord = "discord.prepas-mp2i.org/"
     
   [params.page]

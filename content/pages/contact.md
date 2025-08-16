@@ -21,7 +21,7 @@ Vous avez une proposition pour améliorer ce site ? Vous avez trouvé une erreur
 
 {{< admonition tip "Mail" true >}}
 Vous pouvez contacter les élèves qui maintiennent ce site en envoyant un mail à l'adresse suivante :
-[asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com).
+[contact@prepas-mp2i.org](mailto:contact@prepas-mp2i.org).
 {{< /admonition >}}
 
 Vous avez une question spécifique à l'un des établissements proposant la formation ?

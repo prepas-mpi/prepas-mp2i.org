@@ -13,7 +13,7 @@ categories:
 Voici une liste non exhaustive de projets d'étudiants en MP2I ou MPI, n'hésitez pas à les soutenir ! D'autres projets se rajouteront au fur et à mesure !
 
 {{< admonition tip "Note aux MP2I/MPI" true >}}
-Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com).
+Si vous êtes ou étiez en MP2I ou MPI et que vous souhaitez soumettre un de vos projets, envoyez-nous un mail à [contact@prepas-mp2i.org](mailto:contact@prepas-mp2i.org).
 {{< /admonition >}}
 
 ## 2023-2024

@@ -27,7 +27,7 @@ hugo serve -e production
 
 ## Contact
 
-N'hésitez pas à contacter [asso.mp2i.mpi@gmail.com](mailto:asso.mp2i.mpi@gmail.com) pour tout renseignement.
+N'hésitez pas à contacter [contact@prepas-mp2i.org](mailto:contact@prepas-mp2i.org) pour tout renseignement.
 
 ## Licence
 
