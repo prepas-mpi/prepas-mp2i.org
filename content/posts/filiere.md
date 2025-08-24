@@ -23,13 +23,13 @@ Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très 
 
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire :
 
-| Filière |  Matières dominantes  | Maths | Physique | Chimie | Info | SVT | SI  | LV1 | Philo-Lettres |
+| Filière |  Matières dominantes  | Maths | Physique | Chimie | Info | SI | SVT | LV1 | Philo-Lettres |
 | :-----: | :-------------------: | :---: | :------: | :----: | :--: | :-: | :-: | :-: | :-----------: |
-|  MP2I   |  Maths Physique Info  |  12   |   6.5    |   0    |  4   |  0  |  2  |  2  |       2       |
-|  MPSI   | Maths Physique Chimie |  12   |    6     |   2    | 1.5  |  0  |  2  |  2  |       2       |
-|  PCSI   |  Physique Chimie SI   |  10   |    8     |   4    | 1.5  |  0  |  4  |  2  |       2       |
-|  PTSI   |  SI Physique Chimie   |   9   |    6     |   2    | 1.5  |  0  | 8.5 |  2  |       2       |
-|  BCPST  |  SVT Chimie Physique  |   8   |    4     |   3    | 1.5  |  8  |  0  |  2  |       2       |
+|  MP2I   |  Maths Physique Info  |  12   |   6.5    |   0    |  4   |  2  |  0  |  2  |       2       |
+|  MPSI   | Maths Physique Chimie |  12   |    6     |   2    | 1.5  |  2  |  0  |  2  |       2       |
+|  PCSI   |  Physique Chimie SI   |  10   |    8     |   4    | 1.5  |  4  |  0  |  2  |       2       |
+|  PTSI   |  SI Physique Chimie   |   9   |    6     |   2    | 1.5  | 8.5 |  0  |  2  |       2       |
+|  BCPST  |  SVT Chimie Physique  |   8   |    4     |   3    | 1.5  |  0  |  8  |  2  |       2       |
 
 {{< admonition info "Détails des filières" >}}
 Vous pourrez retrouver un petit récapitulatif de chaque filière sur [Prepas.org](https://prepas.org/index.php?rubrique=41) (alimenté par les professeurs de prépas scientifiques).
