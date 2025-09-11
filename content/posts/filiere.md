@@ -23,7 +23,7 @@ Les classes ne dépassent pas 48 élèves et ceux-ci sont accompagnés et très 
 
 Il existe de nombreuses filières, pour mieux vous y retrouver voici leurs spécialités avec leur volume horaire :
 
-| Filière |  Matières dominantes  | Maths | Physique | Chimie | Info | SI | SVT | LV1 | Philo-Lettres |
+| Filière |  Matières dominantes  | Maths | Physique | Chimie | Info | SI  | SVT | LV1 | Philo-Lettres |
 | :-----: | :-------------------: | :---: | :------: | :----: | :--: | :-: | :-: | :-: | :-----------: |
 |  MP2I   |  Maths Physique Info  |  12   |   6.5    |   0    |  4   |  2  |  0  |  2  |       2       |
 |  MPSI   | Maths Physique Chimie |  12   |    6     |   2    | 1.5  |  2  |  0  |  2  |       2       |
