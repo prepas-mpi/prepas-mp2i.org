@@ -141,6 +141,7 @@ Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons
 | Traitement d'image et Analyse comportementale d'Agents dans différents Environnements | Arthur BOIT | [![TIPE_Arthur_Boit.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Arthur_Boit.pdf) | [![MCOT_Arthur_Boit.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Arthur_Boit.pdf) | [Github](https://github.com/voXrey/canny-and-crowd) |
 | Procédure de primitivation de fonctions rationnelles et logarithmiques | Arthur S. (@eragonaelda) | [![TIPE_Eragonaelda.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Eragonaelda.pdf) | [![MCOT_Eragonaelda.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Eragonaelda.pdf) | - |
 | Preuves de correction automatiques des programmes | @yuesubi | [![TIPE_Yuesubi.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Yuesubi.pdf) | [![MCOT_Yuesubi.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Yuesubi.pdf) | [GitLab](https://gitlab.com/yuesubi-mp2i/tipe) |
+| Ferromagnétisme et Nano-électronique : Exploration des Systèmes de Mémoire | Pierre LAVERGNE & Erwan CHAMPMARTIN | [![TIPE_Pierre_Lavergne_Erwan_Champmartin.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPE_Pierre_Lavergne_Erwan_Champmartin.pdf) | [![MCOT_Pierre_Lavergne_Erwan_Champmartin.pdf](/icons/document.ico)](/documents/TIPE/2025/MCOT_Pierre_Lavergne_Erwan_Champmartin.pdf) | [Script oral](/documents/TIPE/2025/Script_Oral_Pierre_Lavergne.txt) (P.L.) |
 
 #### ENS
 
@@ -149,6 +150,7 @@ Le thème de l'année 2025 est vaste et peut être abordé de nombreuses façons
 | Dissertation sur les polynômes cyclotomiques | Ayman Chabab | [![TIPEENS_Ayman_Chabab.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Ayman_Chabab.pdf) | - |
 | Équivalence théorique entre programmation fonctionelle et impérative | Maya HAYMAN | [![TIPEENS_Maya_Hayman.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Maya_Hayman.pdf) | [GitHub](https://github.com/iWaroz/Magma) |
 | Métaprogrammation dans un langage à 2 niveaux | @zowepsilon | [![TIPEENS_zowepsilon.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_zowepsilon.pdf) | [GitHub](https://github.com/zowepsilon/strati) • Présentation : [![TIPEENS2_Zowepsilon.pdf](/icons/gallery.ico)](/documents/TIPE/2025/TIPEENS2_Zowepsilon.pdf) |
+| L'équation d'Euler-Lagrange, étude et applications | Valentin MOGUÉROU (@argsinh) | [![TIPEENS_Valentin_Moguerou.pdf](/icons/document.ico)](/documents/TIPE/2025/TIPEENS_Valentin_Moguerou.pdf) | Erreurs mineures, voir annotations |
 
 ### 2024 : Jeux, sports
 

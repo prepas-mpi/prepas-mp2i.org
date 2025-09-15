@@ -1,0 +1,42 @@
+Bonjour, je viens ici vous présenter mon TIPE que j’ai nommé "Ferromagnétisme et Nano-électronique : Exploration des Systèmes de mémoire". Dans lequel j’ai étudié deux types de mémoire non volatiles : la mémoire à tores ferromagnétiques, et la RRAM (Resistive Random Access Memory), une technologie émergente à base de memristors.
+J’ai organisé mes recheches et ma présentation autour de la problèmatique : "Comment les principes physiques fondamentaux contribuent-ils à optimiser ces mémoires"
+J’ai éxploré la transformation d’information en états physiques mais également la transition des méthodes de stockage avec le développement technologique.
+
+Je vais commencer par la mémoire à tores ferromagnétiques qui est formée d’une matrice de tores qui représentent chacun un bit, et qui sont enfilés sur une grille de fils électrique. (Ce type de mémoire était utilisé dans les années 60s. On peu citer l’ordinateur de contrôle de la mission Apollo 11.)
+J’ai utilisé deux maquettes qu’on a concues pour mes tests et mesures. Une de 16 tores et une se limitant à un tore pour éliminer les interactions parasites. On remarque ici la petite taille des fils et tores utilisées
+Les matériaux ferromagnétiques utilisées possèdent de l’hystérésis magnétique : leur magnétisation dépend de l’historique des champs auxquels ils sont soumis et se concerve. On peut donc modifier son état avec un champ magnétique éxterieur.
+Plus précisément, chaque électron possède un moment magnétique (représenté par une flèche). Ils sont localement alignées en domaines. À l’état initial leurs orientations sont aléatoires ce qui donne un champ total nul. Mais un champ exérieur les fait grandir, fusionner et s’y aligner jusqu’à ce qu’il ne reste qu’un domaine. Le moment total est non négligeable. On a magnétisé le matériau.
+On utilisera ici le champ crée par un courant dans un fil. Puisqu’il s’oppose lorsqu’on inverse le courant, on défini deux sens de magnétisations et donc deux états 0 et 1.
+Plutôt que d’utiliser un fil par tore, on applique la moitié de l’intensité nécessaire dans les fils de ligne et de colonne (I proportionel à H). Ce système impose une condition : I/2 ne doit pas suffire à modifier un tore (L’intensité nécessaire est élevée : 0.4 A à …V).
+Pour lire l’état d’un bit on observe la réaction du tore à une écriture / impulsion à l’aide d’un fil de lecture et des phénomènes d’induction.
+Si le tore ne change pas d’état, on observe une faible tension dûe nottament au champ crée par le fil. Si le tore change d’état on observe en plus, un pic de tension dû au brusque retournement des domaines du tore. On peut donc connaître l’état initial du tore.
+On caractérise les ferromagnétiques avec leur boucle d’hystérésis (figure B:champ crée / H:exitation magnétique). Il y a ici deux boucles obtenue en faisant varier H à des amplitudes différentes.
+Le champ des ferromagnétiques peut être non nul à exitation magnétique nulle : c’est le champ rémanent. (La saturation correspond à l’alignement complet des domaines, au-delà duquel B n’augmente plus.) On observe deux états possibles pour chaque valeur de H.
+Pour caractériser mes tores j’ai d’abord voulu les modéliser comme une spire ou un solénoïde mais les champs calculés ne correspondent pas. J’ai ensuite chercher à tracer la courbe d’hystérésis, mais sans succès, probablement à cause de la petite taille du tore (nombre d’enroulement réduit et épaisseur de fil non négligeable)
+J’ai tout de même identifié les propriétés souhaitable pour notre matériau. On cherche une mémoire rapide, robuste et économe ce qui nous pousse à obtenir une boucle rectangulaire.
+On note Hp l’exitation à partir de laquelle le champ est fortement modifiée et Hm l’exitation utilisée. On souhaite : Hm/2 < Hp (condition des deux fils), augmenter Hp pour réduire l’impact de champs éxterieur et diminuer Hm pour économiser de l’énergie.
+Ce qui donne Hp ~ Hm et une pente initiale faible.
+Lors de mes premiers tests j’ai réalisé que le bruit est significatif. Initialement on ne savait pas si la magnétisation se faisait, puis lors du premier résultat elle est à peine discernable. Ensuite sur une maquette le bruit est réduit mais important. On utilise au final une forme d’impulsion et pour l’exposé un moyennage.
+Après cela j’ai voulu analyser l’influence des paramètres d’entrée (f et I) sur les performances. J’ai réalisé des séries de mesures sur ma maquette ce qui m’a permis de trouver les meilleurs valeurs possibles pour I et f. Si vous avez des questions je pourrais rentrer dans les détails. (On pourra y revenir.)
+(
+Concernant la durée du retournement (donc la vitesse), elle diminue avec l’augmentation de la fréquence, vers une valeur de convergence. (Faible impact à partir de 20kHz) mais également avec l’augmentation de l’intensité. Il faut néanmois rappeller qu’une grande intensité demande de l’énergie.
+Concernant l’amplitude du signal induit on observe pour la fréquence une influence importante mais une courbe non monotone. Il faut notter que la durée d’une impulsion ne doit pas être plus faible que la durée minimale de retournement (et que les appareils utilisées n’étaient plus linéaires à hautes fréquence ce qui perturbais l’expérience.) Quant à l’intensité, elle permet d’augmenter Vmax.
+)
+On voit à gauche le seuil d’intensité à partir duquel le tore se magnétise.
+J’ai ainsi choisi les valeurs de I et T. Voici également les dimensions des tores et fils. De tels tores n’étant plus commercialisé, j’en ai trouvé d’occasion provenant d’ancien stock mais je n’ai pas eu de choix.
+On obtient 20k opérations par secondes. Côté densité on pourrait croire 125 Ko/L mais puisque le cablage pendre plus de 90 % du volume on calcule 0.9 Ko/L.
+
+Je vais maintenant passer à la RRAM qui repose sur les memristors. On voit ici leurs potentiels en terme de taille. Ces composant fonctionnent comme des résistance dont la résistance dépend de l’historique de la charge qui les a traversé, ce qui évoque le comportement des tores. On modifie leur état en leur applicant un courant.
+Les memristors possèdent une courbe d’hystérésis pincée dont on voit ici le modèle théorique. En (0, 0) on observe le comportement résistif et on remarque les deux états possibles.
+Pour déterminer leur état on mesure la tension à faible intensité.
+Ils sont formés d’un isolant modifiable compris entre deux éléctrodes. Au sein de l’isolant se trouve des lacunes d’oxygène chargées qui peuvent être déplacées par un champ électrique. Une tension modifie donc la résistance du matériau. Voici deux modèle : un filament conducteur qui se forme ou se déforme et une barrière conductrice dont on modifie la densité en lacunes.
+Comme pour les tores la RRAM se présente en matrice où les électrodes font office de lignes et colonnes.
+À ces échelles les mesures sont bruitées, peu continues et sensibles à chaque défaut ou variation dans le composant. (Contrairement au composant à plus grande échelle, les grandeurs ne sont plus "moyennées"). Voici par exemple une courbe éxperimentale.
+J’ai donc étudié le modèle le plus classique : l’isolant est séparée en deux parties de taille variable : une partie dopée de faible résistance (LRS) et une partie non dopée (HRS).
+J’ai calculé x=w/D l’état du memristor en fonction du flux.
+J’ai pu implémenter ce modèle sur python pour l’analyser.
+Voici une courbe courant/tension et une courbe d’hystérésis. Cependant ce modèle est approximatif : il n’est valable que dans certains régimes et les résultats dépendent fortement des paramètres.
+J’ai pu ainsi prendre conscience de la complexité de ces composants très sensibles aux perturbations, difficiles à modéliser et à produire avec fiabilité.
+Pour conclure ma recherche, j’ai confronté différentes mémoires non volatiles. Celles que j’ai étudié, la mémoire flash (la plus utilisée aujourd’hui) et la mémoire holographique (une autre technologie prometteuse).
+On constate une amélioration spectaculaire de la densité qui dépend maintenant de F², la plus petite surface que l’on peu traiter avec la technologie actuelle. Mais aussi des progrès sur la vitesse, l’énergie, ou bien la robustesse (l’endurance en nombre de cycles lecture/écriture). Les mémoires doivent être bonnes sur de multiples critères.
+Je vous remercie de m’avoir écouté et j’espère vous avoir intéressé.
