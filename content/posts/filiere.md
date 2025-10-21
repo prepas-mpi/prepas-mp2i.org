@@ -56,7 +56,7 @@ Une description plus détaillée du cours d'informatique est disponible sur [cet
 Concernant les autres matières : le français-philosophie et la LV1 ont le même programme dans toutes les filières, tandis que la LV2 (1 ou 2 heures) ainsi que le sport sont facultatifs dans la majorité des lycées.
 Cependant, la plupart des élèves gardent une activité extra scolaire pour ne pas faire que des maths toute la journée !
 
-{{< admonition question "MP2I ou MPI ?" >}}
+{{< admonition question "MP2I ou MPSI ?" >}}
 Si vous souhaitez vous renseigner sur les différences entre la MP2I et la MPSI et comment savoir laquelle choisir, vous pouvez consulter [cette page](/posts/mp2i_ou_mpsi/).
 {{< /admonition >}}
 
