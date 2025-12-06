@@ -31,4 +31,8 @@ En cas de panne ou de défaillance, le service [Cloudflare](https://www.cloudfla
 
 ## ARTICLE 4 - COLLECTE DES DONNEES
 
-Le site collecte et traite des données pouvant être personnelles mais anonymisées à l'aide de l'outil [Matomo](https://matomo.org/). Ces actions respectent votre vie privée conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés.
+Le site collecte et traite des données pouvant être personnelles mais anonymisées à l'aide de l'outil [Matomo](https://matomo.org/). Ces actions respectent votre vie privée conformément à la loi n°78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés ainsi que le Règlement Général sur la Protection des Données.
+
+Afin de se désinscrire ou de se réinscrire, cliquez sur la coche ci-après.
+<div id="matomo-opt-out"></div>
+<script src="https://matomo.prepas-mp2i.org/index.php?module=CoreAdminHome&action=optOutJS&divId=matomo-opt-out&language=auto&showIntro=0"></script>
