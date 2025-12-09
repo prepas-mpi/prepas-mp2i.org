@@ -125,6 +125,11 @@ enableEmoji = true
 
   [params.cookieconsent]
     enable = false
+
+  [params.matomo_analytics]
+    enabled = true
+    siteID = "1"
+    matomoURL = "https://matomo.prepas-mp2i.org"
   
 
 [frontmatter]

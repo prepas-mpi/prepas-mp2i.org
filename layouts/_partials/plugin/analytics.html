@@ -1,0 +1,22 @@
+{{- with .Site.Params.matomo_analytics -}} {{- if .enabled -}} {{- $siteID :=
+.siteID | default "1" -}} {{- $matomoURL := .matomoURL | default "" -}} {{- if
+ne $matomoURL "" -}} {{- if not (hasSuffix $matomoURL "/") -}} {{- $matomoURL =
+printf "%s/" $matomoURL -}} {{- end -}}
+<script>
+    var _paq = (window._paq = window._paq || []);
+    _paq.push(["trackPageView"]);
+    _paq.push(["enableLinkTracking"]);
+    _paq.push(["HeatmapSessionRecording::disable"]);
+    (function () {
+        var u = "{{ $matomoURL }}";
+        _paq.push(["setTrackerUrl", u + "matomo.php"]);
+        _paq.push(["setSiteId", "{{ $siteID }}"]);
+        var d = document,
+            g = d.createElement("script"),
+            s = d.getElementsByTagName("script")[0];
+        g.async = true;
+        g.src = u + "matomo.js";
+        s.parentNode.insertBefore(g, s);
+    })();
+</script>
+{{- end -}} {{- end -}} {{- end -}}
