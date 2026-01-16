@@ -1,14 +1,9 @@
 ---
 title: Forum 2025 des étudiants en MP2I/MPI
-url: /forum
 slug: forum-2025
 date: 2025-01-24T20:42:00+01:00
 author: Triw
 summary: Le forum 2025 est terminé ! Cette année, plus de 50 lycéens et parents d'élèves ont pu être informés grâce au forum !
-menu:
-    main:
-        name: Forum
-        weight: 5
 tags:
     - lycéens
 categories:
