@@ -20,6 +20,12 @@ Cette page concerne le forum **de la filière MPI/MP2I**, destiné premièrement
 Si vous êtes déjà en MP2I ou en MPI, les informations concernant le forum **des Grandes Écoles** sont disponibles sur [cette page](/posts/forum-grandes-ecoles-2025).
 {{< /admonition >}}
 
+{{< figure
+    caption="Réalisée par Emma"
+    src="/images/forum/affiche_2026.webp"
+    link="/images/forum/affiche_2026.webp"
+>}}
+
 ## Présentation
 
 Dans la continuité de l'[édition 2025](/posts/forum-2025/), nous organisons un nouveau forum virtuel le samedi 21 février 2026.
@@ -51,9 +57,9 @@ Vous pouvez poser vos questions sur le [Discord](https://discord.prepas-mp2i.org
 
 Cette année, déjà 4 prépas MP2I/MPI ont annoncé leur présence ! Vous trouverez ci-dessous la liste des 4 intervenants et intervenantes qui se sont proposés :
 
-| MPI | Intégré | MP2I | MP2I |
-|:----:|:----:|:----:|:----:|
-| {{< figure src="/images/intervenants/Albin Montaigne.webp" title="Albin" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Antoine Saint Louis.webp" title="Antoine" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alexandre Claude-Bernard.webp" title="Alexandre" caption="Claude-Bernard" >}} |
+| MPI | Intégré | MP2I | MP2I | MP2I |
+|:----:|:----:|:----:|:----:|:----:|
+| {{< figure src="/images/intervenants/Albin Montaigne.webp" title="Albin" caption="Montaigne" >}} | {{< figure src="/images/intervenants/Antoine Descartes.webp" title="Antoine" caption="Descartes" >}} | {{< figure src="/images/intervenants/Antoine Saint Louis.webp" title="Antoine" caption="Saint-Louis" >}} | {{< figure src="/images/intervenants/Alexandre Claude-Bernard.webp" title="Alexandre" caption="Claude-Bernard" >}} | {{< figure src="/images/intervenants/Lina Lycée du Parc.webp" title="Lina" caption="Lycée du Parc" >}} |
 
 ## Forums précédents
 
